@@ -30,3 +30,11 @@ src/
 ├── index.js
 ├── styles/
 └── assets/
+## The complete terminal setup
+git clone https://github.com/<your-username>/movie-app.git
+
+cd movie-app
+
+npm install
+
+npm start
